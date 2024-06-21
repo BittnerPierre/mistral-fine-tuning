@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "mistral-fine-tuning"
+version = "0.1.0"
+description = ""
+authors = ["Pierre Bittner <pierre@bittner.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+mistralai = ">=0.4.0"
+pandas = ">2.0.3"
+ipykernel = "^6.29.4"
+pyarrow = "^16.1.0"
+fastparquet = "^2024.5.0"
+tqdm = "^4.66.4"
+tiktoken = "^0.7.0"
+openai = "^1.35.1"
+python-dotenv = "^1.0.1"
+jsonlines = "^4.0.0"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
