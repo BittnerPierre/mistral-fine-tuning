@@ -1,0 +1,1178 @@
+{
+    "results": [
+        {
+            "hits": [
+                {
+                    "title": "Function-Calling and Data Extraction with LLMs",
+                    "slug": "function-calling-and-data-extraction-with-llms",
+                    "date": "2024-06-13T09:24:42",
+                    "date_timestamp": 1718270682000,
+                    "landing_page": "/short-courses/function-calling-and-data-extraction-with-llms",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/06/sc-Nexusflow-C1-Marketing_Teaser_v1.00_05_01_22.Still026.png",
+                    "trailer_yt_id": "4CzCDNPDTBA",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Nexusflow"
+                    ],
+                    "course": "1 Course",
+                    "description": "Learn to apply function-calling to expand LLM and agent application capabilities.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Nexusflow",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/06/Nexusflow.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Jiantao Jiao, Venkat Srinivasan",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "",
+                    "prerequisites": "Familiarity with LLMs and basic Python knowledge are recommended. ",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/function-calling-and-data-extraction-with-llms",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDU1OQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Function-Calling and Data Extraction with LLMs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "function-calling-and-data-extraction-with-llms",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn to apply function-calling to expand LLM and agent application capabilities.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Building Your Own Database Agent",
+                    "slug": "building-your-own-database-agent",
+                    "date": "2024-06-12T22:56:00",
+                    "date_timestamp": 1718232960000,
+                    "landing_page": "/short-courses/building-your-own-database-agent",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/06/YouTube-Thumbnails-47.png",
+                    "trailer_yt_id": "RX85sYxXymY",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Microsoft"
+                    ],
+                    "course": "1 Course",
+                    "description": "Interact with tabular data and SQL databases using natural language, enabling more efficient and accessible data analysis.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Microsoft",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/06/microsoft-2.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Adrian Gonzalez Sanchez",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "If you want to learn how to interact with databases through natural language, this beginner-friendly course is for you. Familiarity with Python programming and databases (CSV files and SQL) is recommended, but not required. ",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/building-your-own-database-agent",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDUxNg==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Building Your Own Database Agent",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "building-your-own-database-agent",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Interact with tabular data and SQL databases using natural language, enabling more efficient and accessible data analysis.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "AI Agents in LangGraph",
+                    "slug": "ai-agents-in-langgraph",
+                    "date": "2024-06-02T14:16:53",
+                    "date_timestamp": 1717337813000,
+                    "landing_page": "/short-courses/ai-agents-in-langgraph",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/YouTube-Thumbnails-44.png",
+                    "trailer_yt_id": "EqEXTGot2xs",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [
+                        "LangChain",
+                        "Tavily"
+                    ],
+                    "course": "1 Course",
+                    "description": "Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search. ",
+                    "partnershipInfos": [
+                        {
+                            "title": "LangChain",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/06/langchain.png"
+                            }
+                        },
+                        {
+                            "title": "Tavily",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/06/tavily.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Harrison Chase, Rotem Weiss",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "",
+                    "prerequisites": "If you have intermediate Python knowledge and want to learn how to create more controllable agents using the LangGraph open source framework, this course is for you.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/ai-agents-in-langgraph",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDQ3MQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "AI Agents in LangGraph",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "ai-agents-in-langgraph",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search. ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "AI Agentic Design Patterns with AutoGen ",
+                    "slug": "ai-agentic-design-patterns-with-autogen",
+                    "date": "2024-05-21T13:22:47",
+                    "date_timestamp": 1716297767000,
+                    "landing_page": "/short-courses/ai-agentic-design-patterns-with-autogen",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/YouTube-Thumbnails-43.png",
+                    "trailer_yt_id": "TBNTH-fwGPE",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Microsoft",
+                        "Penn State University"
+                    ],
+                    "course": "1 Course",
+                    "description": "Use the AutoGen framework to build multi-agent systems with diverse roles and capabilities for implementing complex AI applications.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Microsoft",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/06/microsoft-2.png"
+                            }
+                        },
+                        {
+                            "title": "Penn State University",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/penn-state.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Chi Wang, Qingyun Wu",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "If you have basic Python coding experience and you’re interested in automating complex workflows using AI agents, this course will provide the practical skills and knowledge you need to leverage AutoGen effectively.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDQxOQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "AI Agentic Design Patterns with AutoGen ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "ai-agentic-design-patterns-with-autogen",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Use the AutoGen framework to build multi-agent systems with diverse roles and capabilities for implementing complex AI applications.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Introduction to On-Device AI",
+                    "slug": "introduction-to-on-device-ai",
+                    "date": "2024-05-21T02:36:00",
+                    "date_timestamp": 1716258960000,
+                    "landing_page": "/short-courses/introduction-to-on-device-ai",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/YouTube-Thumbnails-39.png",
+                    "trailer_yt_id": "Zt2HRp9F5YQ",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Qualcomm"
+                    ],
+                    "course": "1 Course",
+                    "description": "Deploy AI for edge devices and smartphones. Learn model conversion, quantization, and how to modify for deployment on diverse devices. ",
+                    "partnershipInfos": [
+                        {
+                            "title": "Qualcomm",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/qualcomm.jpeg"
+                            }
+                        }
+                    ],
+                    "instructors": "Krishna Sridhar",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "Familiarity with Python, as well as PyTorch or TensorFlow is recommended.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/introduction-to-on-device-ai",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDMxNQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Introduction to On-Device AI",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "introduction-to-on-device-ai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Deploy AI for edge devices and smartphones. Learn model conversion, quantization, and how to modify for deployment on diverse devices. ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Multi AI Agent Systems with crewAI",
+                    "slug": "multi-ai-agent-systems-with-crewai",
+                    "date": "2024-05-13T10:01:33",
+                    "date_timestamp": 1715594493000,
+                    "landing_page": "/short-courses/multi-ai-agent-systems-with-crewai",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/YouTube-Thumbnails-42.png",
+                    "trailer_yt_id": "QtEUU9ppVLU",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "crewAI"
+                    ],
+                    "course": "1 Course",
+                    "description": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+                    "partnershipInfos": [
+                        {
+                            "title": "crewAI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/crewai.jpeg"
+                            }
+                        }
+                    ],
+                    "instructors": "João Moura",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "If you've taken some prompt engineering courses, have some familiarity with basic coding, and want to incorporate LLMs in your professional work, then this course is designed for you!",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDM2Nw==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Multi AI Agent Systems with crewAI",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "multi-ai-agent-systems-with-crewai",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Building Multimodal Search and RAG",
+                    "slug": "building-multimodal-search-and-rag",
+                    "date": "2024-05-12T14:57:56",
+                    "date_timestamp": 1715525876000,
+                    "landing_page": "/short-courses/building-multimodal-search-and-rag",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/YouTube-Thumbnails-38.png",
+                    "trailer_yt_id": "xtWsNDG8RSw",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [
+                        "Weaviate"
+                    ],
+                    "course": "1 Course",
+                    "description": "Build smarter search and RAG applications for multimodal retrieval and generation.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Weaviate",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/weaviate.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Sebastian Witalec",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "",
+                    "prerequisites": "Basic Python knowledge.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/building-multimodal-search-and-rag",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDMzOA==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Building Multimodal Search and RAG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "building-multimodal-search-and-rag",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Build smarter search and RAG applications for multimodal retrieval and generation.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Building Agentic RAG with LlamaIndex",
+                    "slug": "building-agentic-rag-with-llamaindex",
+                    "date": "2024-05-07T15:24:24",
+                    "date_timestamp": 1715095464000,
+                    "landing_page": "/short-courses/building-agentic-rag-with-llamaindex",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/04/YouTube-Thumbnails-37.png",
+                    "trailer_yt_id": "KE7iHWzyc3A",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "LlamaIndex"
+                    ],
+                    "course": "1 Course",
+                    "description": "Build autonomous agents that intelligently navigate and analyze your data. Learn to develop agentic RAG systems using LlamaIndex, enabling powerful document Q&A and summarization. Gain valuable skills in guiding agent reasoning and debugging.",
+                    "partnershipInfos": [
+                        {
+                            "title": "LlamaIndex",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/llamaindex.jpeg"
+                            }
+                        }
+                    ],
+                    "instructors": "Jerry Liu",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "Basic Python knowledge.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/building-agentic-rag-with-llamaindex",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDI5Mw==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Building Agentic RAG with LlamaIndex",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "building-agentic-rag-with-llamaindex",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Build autonomous agents that intelligently navigate and analyze your data. Learn to develop agentic RAG systems using LlamaIndex, enabling powerful document Q&A and summarization. Gain valuable skills in guiding agent reasoning and debugging.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Machine Learning in Production",
+                    "slug": "machine-learning-in-production",
+                    "date": "2024-05-06T22:15:07",
+                    "date_timestamp": 1715033707000,
+                    "landing_page": "/courses/machine-learning-in-production",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/machine-learning-in-production/image-5/",
+                    "trailer_yt_id": null,
+                    "trailer_video_url": {
+                        "link": "https://wordpress.deeplearning.ai/courses/machine-learning-in-production/mlep-2024_marketing_v3-s/"
+                    },
+                    "course_type": "Courses",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [],
+                    "course": "1 Course",
+                    "description": "Design an ML production system: scoping, data, modeling, deployment. Prototype development, deployment & continuous improvement.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Andrew Ng",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "4 months",
+                    "prerequisites": "",
+                    "enrollLink": "https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops?utm_source=deeplearning-ai&utm_medium=institutions",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDM0NQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Machine Learning in Production",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "machine-learning-in-production",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Design an ML production system: scoping, data, modeling, deployment. Prototype development, deployment & continuous improvement.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Quantization in Depth",
+                    "slug": "quantization-in-depth",
+                    "date": "2024-05-01T14:57:55",
+                    "date_timestamp": 1714575475000,
+                    "landing_page": "/short-courses/quantization-in-depth",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/04/YouTube-Thumbnails-36.png",
+                    "trailer_yt_id": "oGbD5lguxQA",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [
+                        "Hugging Face"
+                    ],
+                    "course": "1 Course",
+                    "description": "Customize model compression with advanced quantization techniques. Try out different variants of Linear Quantization, including symmetric vs. asymmetric mode, and different granularities.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Hugging Face",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/hugging-face.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Marc Sun, Younes Belkada",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "",
+                    "prerequisites": "This course builds on the concepts introduced in the Quantization Fundamentals course. Taking it before Quantization in Depth is recommended.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/quantization-in-depth",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDI4OQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Quantization in Depth",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "quantization-in-depth",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Customize model compression with advanced quantization techniques. Try out different variants of Linear Quantization, including symmetric vs. asymmetric mode, and different granularities.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Prompt Engineering for Vision Models",
+                    "slug": "prompt-engineering-for-vision-models",
+                    "date": "2024-04-27T09:27:16",
+                    "date_timestamp": 1714210036000,
+                    "landing_page": "/short-courses/prompt-engineering-for-vision-models",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/04/YouTube-Thumbnails-34.png",
+                    "trailer_yt_id": "5XHar8yjp_U",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Comet"
+                    ],
+                    "course": "1 Course",
+                    "description": "Learn prompt engineering for vision models using Stable Diffusion, and advanced techniques like object detection and in-painting. ",
+                    "partnershipInfos": [
+                        {
+                            "title": "Comet",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/04/comet.jpeg"
+                            }
+                        }
+                    ],
+                    "instructors": "Abby Morgan, Jacques Verré, Caleb Kaiser",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "Prompt Engineering for Vision Models is a hands-on course that helps you get started with prompting vision models. Python experience is recommended. ",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/prompt-engineering-for-vision-models",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDI0MQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Prompt Engineering for Vision Models",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "prompt-engineering-for-vision-models",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn prompt engineering for vision models using Stable Diffusion, and advanced techniques like object detection and in-painting. ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Getting Started With Mistral",
+                    "slug": "getting-started-with-mistral",
+                    "date": "2024-04-16T15:45:52",
+                    "date_timestamp": 1713282352000,
+                    "landing_page": "/short-courses/getting-started-with-mistral",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/04/YouTube-Thumbnails-33.png",
+                    "trailer_yt_id": "tcBYaZqdc4A",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Mistral AI"
+                    ],
+                    "course": "1 Course",
+                    "description": "Explore Mistral's open-source and commercial models, and leverage Mistral's JSON mode to generate structured LLM responses. Use Mistral's API to call user-defined functions for enhanced LLM capabilities.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Mistral AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/04/mistral-ai.webp"
+                            }
+                        }
+                    ],
+                    "instructors": "Younes Belkada, Marc Sun",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "Getting Started with Mistral is a beginner-friendly course and it’s suitable for anyone who wants to learn about and use Mistral AI's collection of advanced open source and commercial LLMs.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/getting-started-with-mistral",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDE2Ng==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Getting Started With Mistral",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "getting-started-with-mistral",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Explore Mistral's open-source and commercial models, and leverage Mistral's JSON mode to generate structured LLM responses. Use Mistral's API to call user-defined functions for enhanced LLM capabilities.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Quantization Fundamentals with Hugging Face",
+                    "slug": "quantization-fundamentals-with-hugging-face",
+                    "date": "2024-04-14T13:21:57",
+                    "date_timestamp": 1713100917000,
+                    "landing_page": "/short-courses/quantization-fundamentals-with-hugging-face",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/04/YouTube-Thumbnails-32.png",
+                    "trailer_yt_id": "R1rF7_tyeqU",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Hugging Face"
+                    ],
+                    "course": "1 Course",
+                    "description": "Learn how to quantize any open-source model. Learn to compress models with the Hugging Face Transformers library and the Quanto library.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Hugging Face",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/hugging-face.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Younes Belkada, Marc Sun",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "Learn how to quantize any open source model.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/quantization-fundamentals",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDE2NQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Quantization Fundamentals with Hugging Face",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "quantization-fundamentals-with-hugging-face",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn how to quantize any open-source model. Learn to compress models with the Hugging Face Transformers library and the Quanto library.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Preprocessing Unstructured Data for LLM Applications",
+                    "slug": "preprocessing-unstructured-data-for-llm-applications",
+                    "date": "2024-04-03T09:37:31",
+                    "date_timestamp": 1712137051000,
+                    "landing_page": "/short-courses/preprocessing-unstructured-data-for-llm-applications",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/04/YouTube-Thumbnails-31.png",
+                    "trailer_yt_id": "tHyPr9Faoig",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Unstructured"
+                    ],
+                    "course": "1 Course",
+                    "description": "Improve your RAG system to retrieve diverse data types. Learn to extract and normalize content from a wide variety of document types, such as PDFs, PowerPoints, and HTML files.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Unstructured",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/04/unstructured.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Matt Robinson",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "Improve your RAG system to retrieve diverse data formats",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/preprocessing-unstructured-data-for-llm-applications",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDEzOQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Preprocessing Unstructured Data for LLM Applications",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "preprocessing-unstructured-data-for-llm-applications",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Improve your RAG system to retrieve diverse data types. Learn to extract and normalize content from a wide variety of document types, such as PDFs, PowerPoints, and HTML files.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Red Teaming LLM Applications",
+                    "slug": "red-teaming-llm-applications",
+                    "date": "2024-03-27T08:51:29",
+                    "date_timestamp": 1711529489000,
+                    "landing_page": "/short-courses/red-teaming-llm-applications",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/03/YouTube_Thumbnails_30-transformed.png",
+                    "trailer_yt_id": "npAcymuDmeA",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Giskard"
+                    ],
+                    "course": "1 Course",
+                    "description": "Learn how to make safer LLM apps through red teaming. Learn to identify and evaluate vulnerabilities in large language model (LLM) applications.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Giskard",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/03/giskard.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Matteo Dora, Luca Martial",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "This is a beginner-friendly course. Basic Python knowledge is recommended to get the most out of this course.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/red-teaming-llm-applications",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDEwNw==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Red Teaming LLM Applications",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "red-teaming-llm-applications",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn how to make safer LLM apps through red teaming. Learn to identify and evaluate vulnerabilities in large language model (LLM) applications.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "JavaScript RAG Web Apps with LlamaIndex",
+                    "slug": "javascript-rag-web-apps-with-llamaindex",
+                    "date": "2024-03-21T10:16:44",
+                    "date_timestamp": 1711016204000,
+                    "landing_page": "/short-courses/javascript-rag-web-apps-with-llamaindex",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/03/YouTube-Thumbnails-29.png",
+                    "trailer_yt_id": "aNVxdfFLNhM",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "LlamaIndex"
+                    ],
+                    "course": "1 Course",
+                    "description": "Build a full-stack web application that uses RAG capabilities to chat with your data. Learn to build a RAG application in JavaScript, using an intelligent agent to answer queries.",
+                    "partnershipInfos": [
+                        {
+                            "title": "LlamaIndex",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/llamaindex.jpeg"
+                            }
+                        }
+                    ],
+                    "instructors": "Laurie Voss",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "Basic JavaScript knowledge.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/javascript-rag-web-apps-with-llamaindex",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDA4MQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "JavaScript RAG Web Apps with LlamaIndex",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "javascript-rag-web-apps-with-llamaindex",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Build a full-stack web application that uses RAG capabilities to chat with your data. Learn to build a RAG application in JavaScript, using an intelligent agent to answer queries.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Efficiently Serving LLMs",
+                    "slug": "efficiently-serving-llms",
+                    "date": "2024-03-18T13:40:37",
+                    "date_timestamp": 1710769237000,
+                    "landing_page": "/short-courses/efficiently-serving-llms",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/03/Teaser-videos-course-launches-7.png",
+                    "trailer_yt_id": "XBnt68VV_1E",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [
+                        "Predibase"
+                    ],
+                    "course": "1 Course",
+                    "description": "Understand how LLMs predict the next token and how techniques like KV caching can speed up text generation. Write code to serve LLM applications efficiently to multiple users.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Predibase",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/03/Predibase.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Travis Addair",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "",
+                    "prerequisites": "Intermediate Python knowledge.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/efficiently-serving-llms",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozNDAzOQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Efficiently Serving LLMs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "efficiently-serving-llms",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Understand how LLMs predict the next token and how techniques like KV caching can speed up text generation. Write code to serve LLM applications efficiently to multiple users.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Knowledge Graphs for RAG",
+                    "slug": "knowledge-graphs-rag",
+                    "date": "2024-03-13T08:26:27",
+                    "date_timestamp": 1710318387000,
+                    "landing_page": "/short-courses/knowledge-graphs-rag",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/03/YouTube-Thumbnails-27.png",
+                    "trailer_yt_id": "jMKRUo4wVKA",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [
+                        "Neo4j"
+                    ],
+                    "course": "1 Course",
+                    "description": "Learn how to build and use knowledge graph systems to improve your retrieval augmented generation applications. Use Neo4j's query language Cypher to manage and retrieve data.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Neo4j",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/03/Untitled-design-53.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Andreas Kollegger",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "",
+                    "prerequisites": "We recommend familiarity with LangChain or taking the short course \"LangChain: Chat with Your Data\" prior to this course.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/knowledge-graphs-rag",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMzk4NQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Knowledge Graphs for RAG",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "knowledge-graphs-rag",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn how to build and use knowledge graph systems to improve your retrieval augmented generation applications. Use Neo4j's query language Cypher to manage and retrieve data.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Open Source Models with Hugging Face",
+                    "slug": "open-source-models-hugging-face",
+                    "date": "2024-03-08T08:41:43",
+                    "date_timestamp": 1709887303000,
+                    "landing_page": "/short-courses/open-source-models-hugging-face",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/02/YouTube-Thumbnails-26.png",
+                    "trailer_yt_id": "Y9zudBWSkEE",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Hugging Face"
+                    ],
+                    "course": "1 Course",
+                    "description": "Learn how to easily build AI applications using open-source models and Hugging Face tools. Find and filter open-source models on Hugging Face Hub.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Hugging Face",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/hugging-face.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Maria Khalusova, Marc Sun, Younes Belkada",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "This is a beginner-friendly course.",
+                    "enrollLink": "https://learn.deeplearning.ai/courses/open-source-models-hugging-face",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMzkxNg==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Open Source Models with Hugging Face",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "open-source-models-hugging-face",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn how to easily build AI applications using open-source models and Hugging Face tools. Find and filter open-source models on Hugging Face Hub.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Prompt Engineering with Llama 2 & 3",
+                    "slug": "prompt-engineering-with-llama-2",
+                    "date": "2024-02-28T08:49:46",
+                    "date_timestamp": 1709110186000,
+                    "landing_page": "/short-courses/prompt-engineering-with-llama-2",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/02/YouTube-Thumbnails-23.png",
+                    "trailer_yt_id": "eOac-VZRnNw",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Meta"
+                    ],
+                    "course": "1 Course",
+                    "description": "Learn best practices for prompting and selecting among Meta Llama 2 & 3 models. Interact with Meta Llama 2 Chat, Code Llama, and Llama Guard models.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Meta",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/02/Meta.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Amit Sangani",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "",
+                    "prerequisites": "This is a beginner-friendly course.",
+                    "enrollLink": "https://learn.deeplearning.ai/prompt-engineering-with-llama-2",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMzg1NQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Prompt Engineering with Llama 2 & 3",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "prompt-engineering-with-llama-2",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn best practices for prompting and selecting among Meta Llama 2 & 3 models. Interact with Meta Llama 2 Chat, Code Llama, and Llama Guard models.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "nbHits": 56,
+            "page": 0,
+            "nbPages": 3,
+            "hitsPerPage": 20,
+            "facets": {
+                "course_type": {
+                    "Short Courses": 42,
+                    "Specializations": 10,
+                    "Courses": 4
+                },
+                "partnership": {
+                    "Hugging Face": 5,
+                    "LangChain": 5,
+                    "Google Cloud": 3,
+                    "LlamaIndex": 3,
+                    "Microsoft": 3,
+                    "OpenAI": 2,
+                    "Weaviate": 2,
+                    "AWS": 1,
+                    "Chroma": 1,
+                    "CircleCI": 1,
+                    "Cohere": 1,
+                    "Comet": 1,
+                    "DeepLearning.AI": 1,
+                    "Giskard": 1,
+                    "Google": 1,
+                    "Lamini": 1,
+                    "Meta": 1,
+                    "Mistral AI": 1,
+                    "Neo4j": 1,
+                    "Nexusflow": 1,
+                    "Penn State University": 1,
+                    "Pinecone": 1,
+                    "Predibase": 1,
+                    "Qualcomm": 1,
+                    "Stanford Online": 1,
+                    "Tavily": 1,
+                    "TruEra": 1,
+                    "Unstructured": 1,
+                    "Weights and Biases": 1,
+                    "WhyLabs": 1,
+                    "crewAI": 1
+                },
+                "skill_level": {
+                    "Beginner": 32,
+                    "Intermediate": 24
+                }
+            },
+            "exhaustiveFacetsCount": true,
+            "exhaustiveNbHits": true,
+            "exhaustiveTypo": true,
+            "exhaustive": {
+                "facetsCount": true,
+                "nbHits": true,
+                "typo": true
+            },
+            "query": "",
+            "params": "clickAnalytics=true&facets=%5B%22course_type%22%2C%22partnership%22%2C%22skill_level%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&maxValuesPerFacet=1000&query=&tagFilters=",
+            "index": "courses_date_desc",
+            "queryID": "a83b070e87c879fb3a58774294b53f1b",
+            "_automaticInsights": true,
+            "renderingContent": {
+                "facetOrdering": {
+                    "facets": {
+                        "order": [
+                            "popularity",
+                            "course_type",
+                            "skill_level",
+                            "duration"
+                        ]
+                    },
+                    "values": {
+                        "course_type": {
+                            "order": [
+                                "Specializations",
+                                "Regular Courses",
+                                "Short Courses"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "duration": {
+                            "order": [
+                                "1_2_hours",
+                                "2_4_weeks",
+                                "2_6_months"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "popularity": {
+                            "order": [
+                                "New Releases",
+                                "Most Popular",
+                                "Top Rated"
+                            ],
+                            "sortRemainingBy": "hidden"
+                        },
+                        "skill_level": {
+                            "order": [
+                                "Beginner",
+                                "Intermediate",
+                                "Advanced"
+                            ],
+                            "sortRemainingBy": "hidden"
+                        }
+                    }
+                }
+            },
+            "processingTimeMS": 2,
+            "processingTimingsMS": {
+                "_request": {
+                    "roundTrip": 137
+                },
+                "extensions": 2,
+                "total": 2
+            },
+            "serverTimeMS": 3
+        }
+    ]
+}

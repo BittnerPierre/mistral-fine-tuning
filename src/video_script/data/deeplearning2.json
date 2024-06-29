@@ -1,0 +1,993 @@
+{
+    "results": [
+        {
+            "hits": [
+                {
+                    "title": "LangChain: Chat with Your Data",
+                    "slug": "langchain-chat-with-your-data",
+                    "date": "2023-07-05T00:11:36",
+                    "date_timestamp": 1688515896000,
+                    "landing_page": "/short-courses/langchain-chat-with-your-data",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2023/07/LangChain_-Chat-with-Your-Data-1.png",
+                    "trailer_yt_id": "fo7bD-NgA4Y",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "LangChain"
+                    ],
+                    "course": "",
+                    "description": "Create a chatbot with LangChain to interface with your private data and documents. Learn from LangChain creator, Harrison Chase.",
+                    "partnershipInfos": [
+                        {
+                            "title": "LangChain",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/06/langchain.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Harrison Chase",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "1 Hour",
+                    "prerequisites": "Basic Python",
+                    "enrollLink": "http://learn.deeplearning.ai/langchain-chat-with-your-data/",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMTMxNg==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "LangChain: Chat with Your Data",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "langchain-chat-with-your-data",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Create a chatbot with LangChain to interface with your private data and documents. Learn from LangChain creator, Harrison Chase.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Generative AI with LLMs",
+                    "slug": "generative-ai-with-llms",
+                    "date": "2023-06-18T22:48:06",
+                    "date_timestamp": 1687128486000,
+                    "landing_page": "/courses/generative-ai-with-llms",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/generative-ai-with-llms/generative-ai-with-llms-1/",
+                    "trailer_yt_id": null,
+                    "trailer_video_url": null,
+                    "course_type": "Courses",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [],
+                    "course": "",
+                    "description": "Understand the generative AI lifecycle. Describe transformer architecture powering LLMs. Apply training/tuning/inference methods. Hear from researchers on generative AI challenges/opportunities.",
+                    "partnershipInfos": [
+                        {
+                            "title": "AWS",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/02/aws.jpeg"
+                            }
+                        }
+                    ],
+                    "instructors": "Antje Barth, Chris Fregly, Shelbee Eigenbrode Instructor, Mike Chambers",
+                    "difficulyLevle": "",
+                    "courseDuration": "",
+                    "prerequisites": "Basic Python",
+                    "enrollLink": "https://www.coursera.org/learn/generative-ai-with-llms?utm_campaign=WebsiteCoursesGAIA&utm_medium=institutions&utm_source=deeplearning-ai",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMTE3Mg==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Generative AI with LLMs",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "generative-ai-with-llms",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Understand the generative AI lifecycle. Describe transformer architecture powering LLMs. Apply training/tuning/inference methods. Hear from researchers on generative AI challenges/opportunities.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "How Diffusion Models Work",
+                    "slug": "how-diffusion-models-work",
+                    "date": "2023-05-31T19:48:56",
+                    "date_timestamp": 1685562536000,
+                    "landing_page": "/short-courses/how-diffusion-models-work",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2023/05/How-Diffusion-Models-Work.png",
+                    "trailer_yt_id": "obdVesVsGQI",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [],
+                    "course": "",
+                    "description": "Learn and build diffusion models from the ground up, understanding each step. Learn about diffusion models in use today and implement algorithms to speed up sampling.",
+                    "partnershipInfos": [],
+                    "instructors": "Sharon Zhou",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "1 Hour",
+                    "prerequisites": "Python, Tensorflow, or Pytorch",
+                    "enrollLink": "https://learn.deeplearning.ai/diffusion-models",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMDk0MA==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "How Diffusion Models Work",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "how-diffusion-models-work",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn and build diffusion models from the ground up, understanding each step. Learn about diffusion models in use today and implement algorithms to speed up sampling.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "LangChain for LLM Application Development",
+                    "slug": "langchain-for-llm-application-development",
+                    "date": "2023-05-31T12:00:59",
+                    "date_timestamp": 1685534459000,
+                    "landing_page": "/short-courses/langchain-for-llm-application-development",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2023/05/LangChain-for-LLM-Application-Development-1.png",
+                    "trailer_yt_id": "jFo_gDOOusk",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "LangChain"
+                    ],
+                    "course": "",
+                    "description": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+                    "partnershipInfos": [
+                        {
+                            "title": "LangChain",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/06/langchain.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Harrison Chase, Andrew Ng",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "1 Hour",
+                    "prerequisites": "Basic Python",
+                    "enrollLink": "https://learn.deeplearning.ai/langchain",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMDk0MQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "LangChain for LLM Application Development",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "langchain-for-llm-application-development",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Building Systems with the ChatGPT API",
+                    "slug": "building-systems-with-chatgpt",
+                    "date": "2023-05-31T08:00:15",
+                    "date_timestamp": 1685520015000,
+                    "landing_page": "/short-courses/building-systems-with-chatgpt",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2023/05/Building-Systems-with-the-ChatGPT-API.png",
+                    "trailer_yt_id": "BunESRhYhec",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "OpenAI"
+                    ],
+                    "course": "",
+                    "description": "Learn to break down complex tasks, automate workflows, chain LLM calls, and get better outputs from LLMs. Evaluate LLM inputs and outputs for safety and relevance.",
+                    "partnershipInfos": [
+                        {
+                            "title": "OpenAI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2023/04/openai-1.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Isa Fulford, Andrew Ng",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "1 hour",
+                    "prerequisites": "Basic Python",
+                    "enrollLink": "https://learn.deeplearning.ai/chatgpt-building-system",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMDkzNw==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Building Systems with the ChatGPT API",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "building-systems-with-chatgpt",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn to break down complex tasks, automate workflows, chain LLM calls, and get better outputs from LLMs. Evaluate LLM inputs and outputs for safety and relevance.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "ChatGPT Prompt Engineering for Developers",
+                    "slug": "chatgpt-prompt-engineering-for-developers",
+                    "date": "2023-04-27T23:24:44",
+                    "date_timestamp": 1682637884000,
+                    "landing_page": "/short-courses/chatgpt-prompt-engineering-for-developers",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/wp-content/uploads/2023/05/enlarge_ChatGPT_Prompt_Engineering_for_Developers_2-1.jpg",
+                    "trailer_yt_id": "H4YK_7MAckk",
+                    "trailer_video_url": "",
+                    "course_type": "Short Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "OpenAI"
+                    ],
+                    "course": "",
+                    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+                    "partnershipInfos": [
+                        {
+                            "title": "OpenAI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2023/04/openai-1.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Isa Fulford, Andrew Ng",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "1 Hour",
+                    "prerequisites": "Basic Python",
+                    "enrollLink": "https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoyOTM2Nw==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "ChatGPT Prompt Engineering for Developers",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "chatgpt-prompt-engineering-for-developers",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "AI for Good",
+                    "slug": "ai-for-good",
+                    "date": "2023-04-07T03:47:24",
+                    "date_timestamp": 1680839244000,
+                    "landing_page": "/courses/ai-for-good",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/ai-for-good/ai-for-good-2-1/",
+                    "trailer_yt_id": "AMBeN5vDwcU",
+                    "trailer_video_url": null,
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [],
+                    "course": "",
+                    "description": "Learn a framework for AI project development. Build models for air quality, wind energy, biodiversity & disaster management. Explore case studies on public health & climate change.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Robert Monarch",
+                    "difficulyLevle": "Beginner",
+                    "courseDuration": "2 - 4 Weeks",
+                    "prerequisites": "",
+                    "enrollLink": "https://www.coursera.org/specializations/ai-for-good?utm_campaign=WebsiteCoursesAI4G&utm_medium=institutions&utm_source=deeplearning-ai",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoyOTIyOA==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "AI for Good",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "ai-for-good",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn a framework for AI project development. Build models for air quality, wind energy, biodiversity & disaster management. Explore case studies on public health & climate change.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Mathematics for Machine Learning and Data Science",
+                    "slug": "mathematics-for-machine-learning-and-data-science-specialization",
+                    "date": "2022-12-07T23:51:57",
+                    "date_timestamp": 1670457117000,
+                    "landing_page": "/courses/mathematics-for-machine-learning-and-data-science-specialization",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/image-4/",
+                    "trailer_yt_id": "rt0uNjjBya4",
+                    "trailer_video_url": null,
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [],
+                    "course": "",
+                    "description": "Explore the fundamental mathematics toolkit of machine learning: calculus, linear algebra, statistics, and probability.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Luis Serrano, Anshuman Singh, Elena Sanina, Magdalena Bouza, Obed Kobina Nsiah, Lucas Coutinho",
+                    "difficulyLevle": "",
+                    "courseDuration": "",
+                    "prerequisites": "",
+                    "enrollLink": null,
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoyODQxNw==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Mathematics for Machine Learning and Data Science",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "mathematics-for-machine-learning-and-data-science-specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Explore the fundamental mathematics toolkit of machine learning: calculus, linear algebra, statistics, and probability.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Machine Learning Specialization",
+                    "slug": "machine-learning-specialization",
+                    "date": "2022-04-11T23:36:22",
+                    "date_timestamp": 1649720182000,
+                    "landing_page": "/courses/machine-learning-specialization",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/machine-learning-specialization/machine-learning-specialization-v2-1/",
+                    "trailer_yt_id": "g7dv-Lnuor4",
+                    "trailer_video_url": null,
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [
+                        "Stanford Online"
+                    ],
+                    "course": "3 Courses",
+                    "description": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+                    "partnershipInfos": [
+                        {
+                            "title": "Stanford Online",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2022/04/stanford-online.webp"
+                            }
+                        }
+                    ],
+                    "instructors": "Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig",
+                    "difficulyLevle": "Beginner to Advanced",
+                    "courseDuration": "2.5 Months ",
+                    "prerequisites": "Basic Python recommended",
+                    "enrollLink": "https://www.coursera.org/specializations/machine-learning-introduction?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=WebsiteCourses-MLS",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoyNjQyNQ==",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Machine Learning Specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "machine-learning-specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn foundational AI concepts through an intuitive visual approach, then learn the code needed to implement the algorithms and math for ML.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "TensorFlow: Advanced Techniques",
+                    "slug": "tensorflow-advanced-techniques-specialization",
+                    "date": "2020-12-30T22:38:12",
+                    "date_timestamp": 1609367892000,
+                    "landing_page": "/courses/tensorflow-advanced-techniques-specialization",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/tensorflow-advanced-techniques-specialization/tensorflow-advanced-techniques-specialization-1/",
+                    "trailer_yt_id": null,
+                    "trailer_video_url": {
+                        "link": "https://wordpress.deeplearning.ai/courses/tensorflow-advanced-techniques-specialization/tensorflow-advanced-intro/"
+                    },
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [],
+                    "course": "4 Courses",
+                    "description": "Expand your knowledge of the Functional API, optimize training with multiple processors, and explore advanced computer vision and generative deep learning techniques.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Laurence Moroney, Eddy Shyu",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "5 months",
+                    "prerequisites": "",
+                    "enrollLink": "https://bit.ly/2Jlji39",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMjc=",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "TensorFlow: Advanced Techniques",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "tensorflow-advanced-techniques-specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Expand your knowledge of the Functional API, optimize training with multiple processors, and explore advanced computer vision and generative deep learning techniques.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Generative Adversarial Networks (GANs)",
+                    "slug": "generative-adversarial-networks-gans-specialization",
+                    "date": "2020-12-30T22:11:53",
+                    "date_timestamp": 1609366313000,
+                    "landing_page": "/courses/generative-adversarial-networks-gans-specialization",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/generative-adversarial-networks-gans-specialization-1/",
+                    "trailer_yt_id": null,
+                    "trailer_video_url": {
+                        "link": "https://wordpress.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/gan-intro/"
+                    },
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [],
+                    "course": "3 Courses",
+                    "description": "Learn image generation with GANs from basics to advanced techniques. Covers social implications like bias & privacy preservation.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Sharon Zhou, Eda Zhou, Eric Zelikman",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "3 months ",
+                    "prerequisites": "",
+                    "enrollLink": "https://bit.ly/3bxUX44",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDozMDk=",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Generative Adversarial Networks (GANs)",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "generative-adversarial-networks-gans-specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn image generation with GANs from basics to advanced techniques. Covers social implications like bias & privacy preservation.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "TensorFlow: Data and Deployment",
+                    "slug": "tensorflow-data-and-deployment-specialization",
+                    "date": "2020-12-22T18:22:10",
+                    "date_timestamp": 1608661330000,
+                    "landing_page": "/courses/tensorflow-data-and-deployment-specialization",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/tensorflow-data-and-deployment-specialization/tensorflow-data-and-deployment-specialization-1/",
+                    "trailer_yt_id": null,
+                    "trailer_video_url": {
+                        "link": "https://wordpress.deeplearning.ai/courses/tensorflow-data-and-deployment-specialization/tensorflow-data-intro/"
+                    },
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [],
+                    "course": "4 Courses",
+                    "description": "Deploy ML models on devices. Train/run models in browsers & mobile apps. Retrain deployed models while protecting privacy.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Laurence Moroney",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "2 - 6 Months",
+                    "prerequisites": "",
+                    "enrollLink": "https://coursera.org/specializations/tensorflow-data-and-deployment?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesTFS2FirstButton",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoxNjA=",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "TensorFlow: Data and Deployment",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "tensorflow-data-and-deployment-specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Deploy ML models on devices. Train/run models in browsers & mobile apps. Retrain deployed models while protecting privacy.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "TensorFlow Developer Professional Certificate",
+                    "slug": "tensorflow-developer-professional-certificate",
+                    "date": "2020-12-22T18:16:31",
+                    "date_timestamp": 1608660991000,
+                    "landing_page": "/courses/tensorflow-developer-professional-certificate",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/tensorflow-developer-professional-certificate/youtube-thumbnails-7/",
+                    "trailer_yt_id": null,
+                    "trailer_video_url": {
+                        "link": "https://wordpress.deeplearning.ai/courses/tensorflow-developer-professional-certificate/tensorflow-pro-intro/"
+                    },
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [],
+                    "course": "4 Courses",
+                    "description": "Learn to build scalable AI apps with TensorFlow. Apply new skills across projects. Prep for Google TensorFlow Certificate exam.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Laurence Moroney",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "2 - 4 weeks",
+                    "prerequisites": "",
+                    "enrollLink": "https://bit.ly/2CTYugm",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoxNTg=",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "TensorFlow Developer Professional Certificate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "tensorflow-developer-professional-certificate",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn to build scalable AI apps with TensorFlow. Apply new skills across projects. Prep for Google TensorFlow Certificate exam.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Natural Language Processing",
+                    "slug": "natural-language-processing-specialization",
+                    "date": "2020-12-22T18:14:16",
+                    "date_timestamp": 1608660856000,
+                    "landing_page": "/courses/natural-language-processing-specialization",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/natural-language-processing-specialization/natural-language-processing-specialization-1/",
+                    "trailer_yt_id": null,
+                    "trailer_video_url": {
+                        "link": "https://wordpress.deeplearning.ai/courses/natural-language-processing-specialization/nlp-intro/"
+                    },
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [
+                        "Hugging Face"
+                    ],
+                    "course": "4 Courses",
+                    "description": "Design NLP apps that perform question-answering, sentiment analysis, language translation, and summarization.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Younes Bensouda Mourri, Łukasz Kaiser, Eddy Shyu",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "4 months ",
+                    "prerequisites": "",
+                    "enrollLink": "https://bit.ly/2zZhQPS",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoxNTk=",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Natural Language Processing",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "natural-language-processing-specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Design NLP apps that perform question-answering, sentiment analysis, language translation, and summarization.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "Deep Learning Specialization",
+                    "slug": "deep-learning-specialization",
+                    "date": "2020-12-22T17:56:00",
+                    "date_timestamp": 1608659760000,
+                    "landing_page": "/courses/deep-learning-specialization",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/deep-learning-specialization/deep-learning-specialization-v2-2/",
+                    "trailer_yt_id": "NJaVkJDrBCc",
+                    "trailer_video_url": null,
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [],
+                    "course": "5 courses",
+                    "description": "Build neural networks (CNNs, RNNs, LSTMs, Transformers) and apply them to speech recognition, NLP, and more using Python and TensorFlow.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Andrew Ng, Kian Katanforoosh, Younes Bensouda Mourri",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "6 months",
+                    "prerequisites": "",
+                    "enrollLink": "http://bit.ly/2WjYrPB",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoxNTQ=",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "Deep Learning Specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "deep-learning-specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Build neural networks (CNNs, RNNs, LSTMs, Transformers) and apply them to speech recognition, NLP, and more using Python and TensorFlow.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "AI for Medicine ",
+                    "slug": "ai-for-medicine-specialization",
+                    "date": "2020-12-22T17:44:02",
+                    "date_timestamp": 1608659042000,
+                    "landing_page": "/courses/ai-for-medicine-specialization",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/ai-for-medicine-specialization/ai-for-medicine-specialization-1/",
+                    "trailer_yt_id": null,
+                    "trailer_video_url": {
+                        "link": "https://wordpress.deeplearning.ai/courses/ai-for-medicine-specialization/ai-for-medicine-intro/"
+                    },
+                    "course_type": "Specializations",
+                    "skill_level": [
+                        "Intermediate"
+                    ],
+                    "partnership": [],
+                    "course": "3 Courses",
+                    "description": "Estimate treatment effects from randomized controlled trials data. Interpret diagnostic & prognostic models. Apply NLP to extract info from unstructured medical data.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Pranav Rajpurkar, Amirhossein Kiani, Bora Uyumazturk, Eddy Shyu",
+                    "difficulyLevle": "Intermediate",
+                    "courseDuration": "3 months",
+                    "prerequisites": "",
+                    "enrollLink": "https://coursera.org/specializations/ai-for-medicine?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4MTopButton",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoxNTE=",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "AI for Medicine ",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "ai-for-medicine-specialization",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Estimate treatment effects from randomized controlled trials data. Interpret diagnostic & prognostic models. Apply NLP to extract info from unstructured medical data.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "title": "AI for Everyone",
+                    "slug": "ai-for-everyone",
+                    "date": "2020-12-22T17:05:21",
+                    "date_timestamp": 1608656721000,
+                    "landing_page": "/courses/ai-for-everyone",
+                    "trailer_thumbnail": "https://wordpress.deeplearning.ai/courses/ai-for-everyone/ai-for-everyone-1/",
+                    "trailer_yt_id": null,
+                    "trailer_video_url": {
+                        "link": "https://wordpress.deeplearning.ai/courses/ai-for-everyone/ai-for-everyone-intro/"
+                    },
+                    "course_type": "Courses",
+                    "skill_level": [
+                        "Beginner"
+                    ],
+                    "partnership": [],
+                    "course": "1 Course",
+                    "description": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+                    "partnershipInfos": [
+                        {
+                            "title": "DeepLearning.AI",
+                            "logo": {
+                                "sourceUrl": "https://wordpress.deeplearning.ai/wp-content/uploads/2024/05/deeplearning-ai.png"
+                            }
+                        }
+                    ],
+                    "instructors": "Andrew Ng",
+                    "difficulyLevle": "Introductory",
+                    "courseDuration": "6 hours",
+                    "prerequisites": "",
+                    "enrollLink": "http://bit.ly/2VRDrm4",
+                    "certificate": "",
+                    "isPrivate": null,
+                    "objectID": "cG9zdDoxMzQ=",
+                    "_highlightResult": {
+                        "title": {
+                            "value": "AI for Everyone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "slug": {
+                            "value": "ai-for-everyone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Learn about AI technologies and how to use them. Examine AI's societal impact, and learn to navigate this technological shift.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "nbHits": 57,
+            "page": 2,
+            "nbPages": 3,
+            "hitsPerPage": 20,
+            "facets": {
+                "course_type": {
+                    "Short Courses": 43,
+                    "Specializations": 10,
+                    "Courses": 4
+                },
+                "partnership": {
+                    "Hugging Face": 5,
+                    "LangChain": 5,
+                    "Google Cloud": 4,
+                    "LlamaIndex": 3,
+                    "Microsoft": 3,
+                    "OpenAI": 2,
+                    "Weaviate": 2,
+                    "AWS": 1,
+                    "Chroma": 1,
+                    "CircleCI": 1,
+                    "Cohere": 1,
+                    "Comet": 1,
+                    "DeepLearning.AI": 1,
+                    "Giskard": 1,
+                    "Google": 1,
+                    "Lamini": 1,
+                    "Meta": 1,
+                    "Mistral AI": 1,
+                    "Neo4j": 1,
+                    "Nexusflow": 1,
+                    "Penn State University": 1,
+                    "Pinecone": 1,
+                    "Predibase": 1,
+                    "Qualcomm": 1,
+                    "Stanford Online": 1,
+                    "Tavily": 1,
+                    "TruEra": 1,
+                    "Unstructured": 1,
+                    "Weights and Biases": 1,
+                    "WhyLabs": 1,
+                    "crewAI": 1
+                },
+                "skill_level": {
+                    "Beginner": 33,
+                    "Intermediate": 24
+                }
+            },
+            "exhaustiveFacetsCount": true,
+            "exhaustiveNbHits": true,
+            "exhaustiveTypo": true,
+            "exhaustive": {
+                "facetsCount": true,
+                "nbHits": true,
+                "typo": true
+            },
+            "query": "",
+            "params": "clickAnalytics=true&facets=%5B%22course_type%22%2C%22partnership%22%2C%22skill_level%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&maxValuesPerFacet=1000&page=2&query=&tagFilters=&userToken=anonymous-4ac69ef9-44cf-4409-8dcf-49049e19dab4",
+            "index": "courses_date_desc",
+            "queryID": "1443b8bcdcef51d6b3f249e8e05cb943",
+            "_automaticInsights": true,
+            "renderingContent": {
+                "facetOrdering": {
+                    "facets": {
+                        "order": [
+                            "popularity",
+                            "course_type",
+                            "skill_level",
+                            "duration"
+                        ]
+                    },
+                    "values": {
+                        "course_type": {
+                            "order": [
+                                "Specializations",
+                                "Regular Courses",
+                                "Short Courses"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "duration": {
+                            "order": [
+                                "1_2_hours",
+                                "2_4_weeks",
+                                "2_6_months"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "popularity": {
+                            "order": [
+                                "New Releases",
+                                "Most Popular",
+                                "Top Rated"
+                            ],
+                            "sortRemainingBy": "hidden"
+                        },
+                        "skill_level": {
+                            "order": [
+                                "Beginner",
+                                "Intermediate",
+                                "Advanced"
+                            ],
+                            "sortRemainingBy": "hidden"
+                        }
+                    }
+                }
+            },
+            "processingTimeMS": 2,
+            "processingTimingsMS": {
+                "_request": {
+                    "roundTrip": 154
+                },
+                "extensions": 2,
+                "total": 2
+            },
+            "serverTimeMS": 3
+        }
+    ]
+}

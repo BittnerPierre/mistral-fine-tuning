@@ -17,29 +17,28 @@ client2 = OpenAI(
     api_key=os.getenv('OPENAI_API_KEY')
 )
 
+
 def get_completion_from_messages(messages,
                                  model="mistral-large-latest",
                                  temperature=0,
-                                 response_format=None,
-                                 ):
-    response = client.chat(
-        model=model,
-        messages=messages,
-        temperature=temperature,
-        response_format=response_format
-    )
-    return response .choices[0].message.content
-
-
-def get_completion_from_messages2(messages,
-                                 model="gpt-3.5-turbo",
-                                 temperature=0,
                                  response_format=None):
-    response = client2.chat.completions.create(
-        model=model,
-        messages=messages,
-        temperature=temperature, # this is the degree of randomness of the model's output
-    )
+    if model.startswith("gpt"):
+        response = client2.chat.completions.create(
+            model=model,
+            messages=messages,
+            temperature=temperature,  # this is the degree of randomness of the model's output
+            response_format=response_format
+        )
+    elif "mistral" in model:
+        response = client.chat(
+            model=model,
+            messages=messages,
+            temperature=temperature,
+            response_format=response_format
+        )
+    else:
+        raise ValueError(f"Unknown model prefix for model: {model}")
+
     return response.choices[0].message.content
 
 
