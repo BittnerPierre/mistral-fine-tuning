@@ -20,7 +20,7 @@ out_dir = "./data"
 dump_directory = f"{out_dir}/dumps-6"
 
 jsonl_input_file_path = f"{out_dir}/generated_enhanced_video.jsonl"
-jsonl_output_file_path = f"{out_dir}/enhanced_videos_mistral-large-latest.jsonl"
+jsonl_output_file_path = f"{out_dir}/enhanced_videos_ft_open-mistral-7b.jsonl"
 
 debug = False
 
@@ -70,7 +70,7 @@ def process_line(args):
     reformatted_video = format_video_from_jsonl(video)
 
     # wait 3sec
-    time.sleep(3)
+    time.sleep(2)
     result = None
     try:
         messages = [
@@ -80,9 +80,9 @@ def process_line(args):
         ]
 
         new_script = get_completion_from_messages(
-            # model="ft:mistral-small-latest:c056c2e4:20240628:f732bd21",
+            model="ft:mistral-small-latest:c056c2e4:20240628:f732bd21",
             # model="mistral-small-latest",
-            model="mistral-large-latest",
+            # model="mistral-large-latest",
             messages=messages,
             temperature=0.2)
 

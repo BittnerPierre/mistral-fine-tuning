@@ -16,10 +16,10 @@ from video_script.utils_videos import format_video_from_jsonl
 _ = load_dotenv(find_dotenv())
 
 out_dir = "./data"
-dump_directory = f"{out_dir}/dumps-3"
+dump_directory = f"{out_dir}/dumps-7"
 
-jsonl_input_file_path = f"{out_dir}/enhanced_videos_mistral-small-latest.jsonl"
-jsonl_output_file_path = f"{out_dir}/enhanced_video_critics_mistral-small-latest.jsonl"
+jsonl_input_file_path = f"{out_dir}/enhanced_videos_mistral-large-latest.jsonl"
+jsonl_output_file_path = f"{out_dir}/enhanced_video_critics_mistral-large-latest.jsonl"
 
 debug = False
 
