@@ -18,7 +18,7 @@ To run statistics :
 - Step_5a_-_print_score.py
 - step_8_-_statistics.py
 
-`
+```
 /Users/pierrebittner/Library/Caches/pypoetry/virtualenvs/mistral-fine-tuning-HF3LZeAg-py3.10/bin/python /Users/pierrebittner/Documents/GitHub/mistral-fine-tuning/src/video_script/step_8_-_statistics.py 
 ------ Initial statistics
 Initial / Average: 6.26024, Tone: 7.19397, Structure and content: 5.33728
@@ -30,9 +30,9 @@ Mistral Small / Average: 6.64936, Tone: 7.44861, Structure and content: 5.86296
 Mistral Large / Average: 6.92848, Tone: 7.68582, Structure and content: 6.23627
 
 Process finished with exit code 0
-`
+```
 
-`
+```
 /Users/pierrebittner/Library/Caches/pypoetry/virtualenvs/mistral-fine-tuning-HF3LZeAg-py3.10/bin/python /Users/pierrebittner/Documents/GitHub/mistral-fine-tuning/src/video_script/Step_5a_-_print_score.py 
 ------
 Initial Average Overall Score: 6.26024
@@ -59,6 +59,6 @@ Average Tone Improvement: -0.72159
 Average Structure and Content Improvement: -1.03409
 
 Process finished with exit code 0
-`
+```
 
 
