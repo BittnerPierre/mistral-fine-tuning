@@ -6,19 +6,24 @@ Source code of application is in src/video_script:
 - Step_3_-_critic_video_script.py
 - Step_4_-_enforce_specific_style.py
 - Step_5_-_measure_progress.py
-
 - Step_6_-_final_enhancement_test.py
 - Step_7_-_critic_enhanced_video_script.py
 
-Produce files are in src/video_script/data/results.
+Project use poetry for managing dependencies.
 
-Fine tune model is ft:mistral-small-latest:c056c2e4:20240628:f732bd21
+Produced files are in src/video_script/data/results.
+- generated_video_conversation.jsonl file used for training model
 
-To run statistics :
-- Step_5a_-_print_score.py
-- step_8_-_statistics.py
+Notebook for model training, unitary test and generate video script of the video is located in:
+- src/mistral_finetune_api_video.ipynb
 
-```
+Final Fine-tuned model is ft:mistral-small-latest:c056c2e4:20240628:f732bd21
+It is based on mistral-small-latest.
+
+To display the result of benchmark :
+- src/video_script/step_8_-_statistics.py
+
+``` step_8_-_statistics.py
 /Users/pierrebittner/Library/Caches/pypoetry/virtualenvs/mistral-fine-tuning-HF3LZeAg-py3.10/bin/python /Users/pierrebittner/Documents/GitHub/mistral-fine-tuning/src/video_script/step_8_-_statistics.py 
 ------ Initial statistics
 Initial / Average: 6.26024, Tone: 7.19397, Structure and content: 5.33728
