@@ -9,6 +9,8 @@ Source code of application is in src/video_script:
 - Step_6_-_final_enhancement_test.py
 - Step_7_-_critic_enhanced_video_script.py
 
+![The project pipeline](/Diapositive1.jpeg "Project Pipeline")
+
 Project use poetry for managing dependencies.
 
 Produced files are in src/video_script/data/results.
@@ -66,4 +68,4 @@ Average Structure and Content Improvement: -1.03409
 Process finished with exit code 0
 ```
 
-
+ ![The project benchmakr](/Diapositive3.jpeg "Project Benchmark")
