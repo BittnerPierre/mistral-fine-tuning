@@ -26,6 +26,8 @@ Project use poetry for managing dependencies.
 Produced files are in src/video_script/data/results.
 - generated_video_conversation.jsonl file used for training model
 
+Training dataset is around 1000 videos. Generation of original video script is part of the pipeline.
+
 Notebook for model training, unitary test and generate video script of the video is located in:
 - src/mistral_finetune_api_video.ipynb
 
