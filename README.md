@@ -1,7 +1,7 @@
 # MISTRAL FINE-TUNING HACKATHON PROJECT
 
 ## Project Goals
-Goals of the project is to create a pipeline to create a fine-tuned model that is able to create or revised youtube video script that ensure a consistent personnal tone & structure and content.
+Goals of the project is to create a pipeline that produce fine-tuned models that are able to edit and revised youtube video scripts that ensure a consistent personnal tone & structure and content.
 
 ## Project code structure
 Source code of the pipeline is in src/video_script:
