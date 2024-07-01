@@ -33,6 +33,8 @@ Notebook for model training, unitary test and generate video script of the video
 Final Fine-tuned model is "ft:mistral-small-latest:c056c2e4:20240628:f732bd21"
 It is based on mistral-small-latest.
 
+`Mistral-Large-Latest` was used to generate original videos, critics scripts and generate revised version to generate the training conversation.
+
 To display the result of benchmark :
 - src/video_script/step_8_-_statistics.py
 
@@ -49,6 +51,9 @@ Mistral Large / Average: 6.92848, Tone: 7.68582, Structure and content: 6.23627
 
 Process finished with exit code 0
 ```
+
+To print score of training generation process.
+- src/video_script/Step_5a_-_print_score.py
 
 ``` Step_5a_-_print_score.py 
 /Users/pierrebittner/Library/Caches/pypoetry/virtualenvs/mistral-fine-tuning-HF3LZeAg-py3.10/bin/python /Users/pierrebittner/Documents/GitHub/mistral-fine-tuning/src/video_script/Step_5a_-_print_score.py 
